@@ -1,0 +1,133 @@
+180820_bioinformatics.txt
+
+https://ut.taleo.net/careersection/ut-int-career-section/jobdetail.ftl?job=1800000161&tz=GMT-04%3A00
+
+http://www.tripal.info/node/74
+
+Job Description 
+IT Specialist III, Department of Entomology and Plant Pathology - 1800000161 
+
+Description
+ 
+
+IT Research Specialist III in Bioinformatics 
+
+Job Summary
+
+The Department of Entomology and Plant Pathology, University of Tennessee Institute of Agriculture seeks to fill an IT Research Specialist III position to direct and participate in the 
+
+specification, analysis, design, development, maintenance, and documentation of the Tripal software system, a Drupal-based content management system for genetic and genomic scientific 
+
+data (http://tripal.info/). The i5k workspace will be the primary use case. The i5K is an initiative to sequence the genomes of 5,000 arthropod species, and the workspace is the online 
+
+presence for scientists to access, curate, visualize and share the data from the i5k project (https://i5k.nal.usda.gov/).
+
+Job Functions
+
+·         Provides specialized services to include web application design, developing web services, and perform web programming. Tripal is written as a set of PHP-based Drupal modules and is 
+
+the basis of the i5k workspace. In this position, the programmer will maintain and support the existing Drupal/Tripal site as well as develop new modules.
+
+·         Tests and verifies complex technological procedures and evaluates and validates complex information technology processes. Tripal code must utilize unit tests and the developer will be 
+
+expected to implement automated and functional tests for both newly developed code and upgrades to existing code. Server-side monitoring of site health will also need to be developed.
+
+·         Identifies and evaluates the needs, supports, and solves the information technology needs of users. The needs of the i5k workspace and the Tripal software itself evolve as biological and 
+
+genomic science advances, and the specific project will need to be tailored and updated by the developer to reflect this.
+
+·         Consults with a diverse clientele internal and external to the University. This project involves working directly with other Tripal developers at the University of Tennessee, other Tripal 
+
+developers worldwide, collaborators at the USDA ARS, and scientists from all over the world that are using the i5k workspace.
+
+·         Provides direction and leadership in monitoring, assessing, and documenting the information technology infrastructure. The programmer will lead all aspects of new modules as outlined 
+
+below, including developing code on GitHub, providing adequate unit testing, providing detailed documentation, responding to bugs/issues and coordinating development with the larger Tripal 
+
+community.
+
+·         Manages and maintains this project with a significant degree of independence.
+
+·         Responds to medium-scale technical issues without supervision; responds to large-scale technical issues with minimum supervision. The developer will need to address user and site 
+
+needs, respond to github issues and guide developmen with minimum supervision.
+
+·         Possesses in-depth industry knowledge. Prior knowledge of PHP, HTML, CSS, Javascript and SQL are necessary. Prior experience with Drupal is strongly preferred. Prior experience 
+
+working with biological data (gene and genome sequences, genetic maps) and controlled vocabularies/ontologies preferred.
+
+·         Researches and trains on new technologies as appropriate. Tripal utilizes many biology-specific concepts and relies on various existing technologies that will require independent study. 
+
+For example, Chado (the standard molecular biology relational database schema), BLAST (the DNA sequence similarity search engine) and Jbrowse (the javascript-based genome browser). 
+
+Tripal is also built with extensive use of scientific controlled vocabularies, which the developer will need to become familiar with. Further, new web technologies will need to be integrated into 
+
+Tripal as they become available.
+
+·         Performs advanced level analysis and extensive problem solving as necessary to complete specific assignments. The project involves signficant complexity in integrating software, web, 
+
+data science and biology concepts to guide development of extremely sophisticated web software.
+
+·         Plans and coordinates projects as assigned.
+
+·         Provides guidance to colleagues and users.  As new developers are brought into Tripal, will need to guide them in best software practices and module development. Will need to respond 
+
+to user requests and either undertake creating of i5k site training materials or supervise others in the creation of training materials.
+
+·         May serve as project lead on large sized projects. For example, will need to lead the writing and submission of a peer-reviewed scientific literature article about how Tripal and/or Chado 
+
+should implement FAIR (Findable, Accessible, Interoperable, Reproducible) data practices into Tripal.
+
+·         Performs other related duties as required. For example, travel to meet the i5k science team and to scientific conferences, presenting information on Tripal and i5k including both 
+
+demonstrations and oral presentations.
+
+Project Examples
+
+·         The developer will lead convertsion of i5k from Tripal v2 to Tripal v3. This includes converting existing custom i5k Workspace modules, for example for organism and gene display, that 
+
+will likely need to be rewritten as new modules.
+
+·         Improve on the i5k Workspace’s NCBI metadata ingest module (in development). Tasks include full implementation of metadata storage, mapping NCBI’s metadata to existing controlled 
+
+vocabularies, expanding the scope from genome assemblies to other datatypes such as gene predictions and RNASeq data.
+
+·         Improve metadata ingest to guide public site users in submitting their own datasets. Development of a Tripal module for this task.
+
+·         Develop site templates and navigation to enable users to retrieve data and metadata in a more genome-centric way.
+
+·         Improve organization and display of gene families or related genes, particularly through use of controlled vocabularies. Development of a gene family module for Tripal.
+
+·         Lead writing of a peer-reviewed publication on how Tripal and/or Chado should implement FAIR data principles.
+ 
+
+Qualifications
+ 
+
+Minimum Qualifications
+
+MS degree in bioinformatics or computer science related field with five years of experience, PhD is preferred.  Preferred demonstrated skills in PHP, HTML, CSS, Javascript and SQL, Drupal, 
+
+Chado, BLAST, Jbrowse, and Tripal will be considered first.
+
+Regular full time position with benefits
+
+Pay Range: $65k-75k based on qualifications and experience
+
+Location:  The University of Tennessee, Institute of Agriculture, AgResearch
+
+Required documents to apply:  CV, transcripts, 2 professional references (upload as one PDF or DOC file)
+ 
+
+Job  Information Technology Professional 
+Primary Location  US-Tennessee-Knoxville 
+Organization  Entomology & Plant Path - Res 
+Campus/Institute    
+Schedule  Full-time 
+Job Posting  Aug 2, 2018, 10:55:39 AM 
+Recruiter Rachel Ann Parcell
+
+http://tripal.info/
+https://www.drupal.org/project/tripal
+https://i5k.nal.usda.gov/
+https://i5k.nal.usda.gov/content/blast-tutorial
