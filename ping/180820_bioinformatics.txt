@@ -131,3 +131,4 @@ http://tripal.info/
 https://www.drupal.org/project/tripal
 https://i5k.nal.usda.gov/
 https://i5k.nal.usda.gov/content/blast-tutorial
+https://github.com/tripal/tripal/issues
