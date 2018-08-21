@@ -32,6 +32,8 @@ the basis of the i5k workspace. In this position, the programmer will maintain a
 
 expected to implement automated and functional tests for both newly developed code and upgrades to existing code. Server-side monitoring of site health will also need to be developed.
 
+https://www.utk.edu/alpha/category/academics
+
 ·         Identifies and evaluates the needs, supports, and solves the information technology needs of users. The needs of the i5k workspace and the Tripal software itself evolve as biological and 
 
 genomic science advances, and the specific project will need to be tailored and updated by the developer to reflect this.
